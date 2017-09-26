@@ -167,4 +167,10 @@
         </plugins>
     </build>
 
+	<developers>
+		<developer>
+			<name>Marcelo Prestes de Oliveira</name>
+			<email>2marcelopo@gmail.com</email>
+		</developer>
+	</developers>
 </project>
